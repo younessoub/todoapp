@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "react-native-test",
-    "slug": "react-native-test",
+    "name": "todo",
+    "slug": "todo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/task.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "test.apk"
+      "package": "todo.apk"
     },
     "web": {
       "favicon": "./assets/favicon.png"
